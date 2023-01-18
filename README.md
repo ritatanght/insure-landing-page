@@ -40,6 +40,10 @@ The challenge is to build out the project and get it looking as close to the des
 - Solution URL: [Here](https://github.com/ritatanght/insure-landing-page)
 - Live Site URL: [Here](https://ritatanght.github.io/insure-landing-page/)
 
+---
+
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -48,8 +52,6 @@ The challenge is to build out the project and get it looking as close to the des
 - Flexbox
 - [Font Awesome](https://fontawesome.com)
 - Mobile-first workflow
-
----
 
 ### What I learned
 
